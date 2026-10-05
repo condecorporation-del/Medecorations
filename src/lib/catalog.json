@@ -1,0 +1,31 @@
+{
+  "brand": { "name": "ME Cabo", "year": 2026, "currency": "USD", "locale": "es-MX" },
+  "policies": {
+    "availability": "Colores y flores sujetos a disponibilidad.",
+    "payments": "Efectivo o PayPal. PayPal agrega 6% de comisión.",
+    "cancellation": "Cancelaciones con menos de 3 días antes de la entrega aplican una penalización del 20% del total.",
+    "source": "Menú de decoración ME Cabo 2026, páginas 1–10."
+  },
+  "categories": [
+    { "id": "flores", "label": "Flores" },
+    { "id": "globos", "label": "Globos" },
+    { "id": "celebraciones", "label": "Celebraciones" }
+  ],
+  "products": [
+    { "id": "rosas-24", "category": "flores", "name": "Ramo de 24 rosas", "nameEn": "24 Rose Bouquet", "description": "Ramo de 24 rosas. Elige el color, el papel y el listón.", "includes": ["24 rosas", "Elección de color", "Elección de papel y listón"], "price": 95, "unit": "USD", "image": "/images/roses-24.jpg", "sourcePage": 2 },
+    { "id": "rosas-48", "category": "flores", "name": "Ramo de 48 rosas", "nameEn": "48 Rose Bouquet", "description": "Ramo de 48 rosas. Elige el color, el papel y el listón.", "includes": ["48 rosas", "Elección de color", "Elección de papel y listón"], "price": 170, "unit": "USD", "image": "/images/roses-48.jpg", "sourcePage": 2 },
+    { "id": "rosas-100", "category": "flores", "name": "Ramo de 100 rosas", "nameEn": "100 Rose Bouquet", "description": "Ramo de 100 rosas. Elige el color, el papel y el listón.", "includes": ["100 rosas", "Elección de color", "Elección de papel y listón"], "price": 310, "unit": "USD", "image": "/images/roses-100.jpg", "sourcePage": 2 },
+    { "id": "petalos", "category": "flores", "name": "Bolsa de pétalos", "nameEn": "Bag of Petals", "description": "Bolsa de pétalos de rosa.", "includes": ["Bolsa de pétalos"], "price": 75, "unit": "USD", "image": "/images/roses-24.jpg", "sourcePage": 2 },
+    { "id": "temporada-mediano", "category": "flores", "name": "Ramo mediano de flores de temporada", "nameEn": "Seasonal Flowers Medium Bouquet", "description": "Mezcla de flores de temporada en tamaño mediano.", "includes": ["Flores de temporada", "Ramo mediano"], "price": 135, "unit": "USD", "image": "/images/seasonal-medium.jpg", "sourcePage": 3 },
+    { "id": "girasoles-mediano", "category": "flores", "name": "Ramo mediano de girasoles", "nameEn": "Sunflowers Medium Bouquet", "description": "Ramo mediano de girasoles.", "includes": ["Girasoles", "Ramo mediano"], "price": 120, "unit": "USD", "image": "/images/sunflowers-medium.jpg", "sourcePage": 3 },
+    { "id": "premium-mediano", "category": "flores", "name": "Ramo mediano de flores premium", "nameEn": "Premium Flowers Medium Bouquet", "description": "Mezcla de flores premium en un ramo mediano.", "includes": ["Mezcla de flores premium", "Ramo mediano"], "price": 150, "unit": "USD", "image": "/images/premium-mix.jpg", "sourcePage": 4 },
+    { "id": "premium-caja", "category": "flores", "name": "Ramo mediano premium en caja", "nameEn": "Premium Flowers Medium Bouquet Box", "description": "Mezcla de flores premium presentada en caja.", "includes": ["Mezcla de flores premium", "Caja"], "price": 170, "unit": "USD", "image": "/images/premium-box.jpg", "sourcePage": 4 },
+    { "id": "premium-arreglo-250", "category": "flores", "name": "Arreglo premium en florero", "nameEn": "Premium Flowers Arrangement", "description": "Rosas, flores premium de temporada y follaje en un florero.", "includes": ["Rosas", "Flores premium de temporada", "Follaje", "Florero"], "price": 250, "unit": "USD", "image": "/images/premium-arrangement.jpg", "sourcePage": 5 },
+    { "id": "premium-arreglo-310", "category": "flores", "name": "Arreglo grande de flores premium", "nameEn": "Large Premium Flowers Arrangement", "description": "Arreglo grande con una mezcla de flores premium.", "includes": ["Arreglo floral grande", "Mezcla de flores premium"], "price": 310, "unit": "USD", "image": "/images/premium-vase.jpg", "sourcePage": 5 },
+    { "id": "corazones-metalicos", "category": "globos", "name": "Bouquet de 12 globos corazón metálicos", "nameEn": "Metallic Heart Balloon 12 Pieces Bouquet", "description": "Bouquet de 12 globos corazón metálicos; un solo color o mezcla.", "includes": ["12 globos corazón metálicos", "Un color o mezcla"], "price": 120, "unit": "USD", "image": "/images/heart-balloons.jpg", "sourcePage": 6 },
+    { "id": "aniversario", "category": "celebraciones", "name": "Banner de aniversario + corazones", "nameEn": "Happy Anniversary Banner + 6 Heart Metallic Balloons", "description": "Banner de Happy Anniversary con globos corazón metálicos.", "includes": ["Banner Happy Anniversary", "6 globos corazón metálicos"], "price": 160, "unit": "USD", "image": "/images/anniversary.jpg", "sourcePage": 6 },
+    { "id": "numeros-esfera", "category": "globos", "name": "Bouquet de globos con números", "nameEn": "Balloon Bouquet with Numbers", "description": "Bouquet con 2 números, esfera personalizada metálica y 3 globos de látex.", "includes": ["2 globos número", "1 esfera metálica personalizada", "3 globos de látex"], "price": 130, "unit": "USD", "image": "/images/number-balloons.jpg", "sourcePage": 7 },
+    { "id": "cumpleanos", "category": "celebraciones", "name": "Decoración de cumpleaños", "nameEn": "B-Day Balloon Decor", "description": "Decoración de cumpleaños con globos jumbo, globos de látex y letrero.", "includes": ["2 globos jumbo metálicos (en piso o con helio)", "30 globos de látex con helio", "20 globos de piso", "Globo o letrero de papel Happy Birthday"], "price": 330, "unit": "USD", "image": "/images/birthday.jpg", "sourcePage": 8 },
+    { "id": "bride-to-be", "category": "celebraciones", "name": "Decoración Bride To Be", "nameEn": "Balloons Bride To Be", "description": "Decoración nupcial con dos opciones de banner y globos. El menú repite 30 globos con helio y 20 de piso para esta opción.", "includes": ["30 globos de látex con helio", "20 globos de piso", "Opción 1: banner Bride to Be (globo o papel) y globo metálico de anillo", "Opción 2: letras jumbo Bride y guirnalda de perlas"], "price": 330, "unit": "USD", "image": "/images/bride-to-be.jpg", "variants": ["Opción 1", "Opción 2"], "sourcePage": 9 }
+  ]
+}
